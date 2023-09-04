@@ -1,4 +1,4 @@
-var btnColors = ["green","red","yellow","purple"];
+var btnColors = ["green","red","yellow","blue"];
 var gamePattern = [];
 var userPattern = [];
 var started = false;
